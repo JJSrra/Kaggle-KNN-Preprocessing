@@ -1,0 +1,6 @@
+Submission 3
+
+Centered and scaled train. Transformed class to factor at the end. Only removed extreme outliers.
+
+Train result: 0.7900876
+Result: 0.91066
