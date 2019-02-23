@@ -1,0 +1,6 @@
+Submission 4
+
+Used preProcess function to create train transformations, and used them also for test.
+
+Train result: 0.7900876
+Result: 0.90658
