@@ -1,0 +1,7 @@
+Submission 1
+
+First upload with basic KNN from Caret package.
+NAs and outliers imputations.
+
+Train result: 0.75482
+Result: 0.87442
