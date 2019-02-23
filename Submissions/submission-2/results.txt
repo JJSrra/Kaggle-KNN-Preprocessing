@@ -1,0 +1,6 @@
+Submission 2
+
+Imputed each NA (not only outliers) and removed duplicated rows.
+
+Train result: 0.75872
+Result: 0.87340
