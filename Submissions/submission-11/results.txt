@@ -1,0 +1,6 @@
+Submission 11
+
+Filtered noise using Cross-Validated Committees Filter.
+
+Train result: 0.8853779
+Result: 0.89892
