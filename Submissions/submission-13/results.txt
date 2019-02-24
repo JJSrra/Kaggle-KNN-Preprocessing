@@ -1,0 +1,6 @@
+Submission 13
+
+Back to submission-4. Only removed lower extreme outliers. No noise filtering. No features selection.
+
+Train result: 0.7898666
+Result: 0.90607
