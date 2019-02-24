@@ -1,0 +1,6 @@
+Submission 8
+
+Performed undersampling, removed PCA from preprocessing, back to only center and scale.
+
+Train result: 0.7710039
+Result: 0.87748
