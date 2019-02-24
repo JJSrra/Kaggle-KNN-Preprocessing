@@ -1,0 +1,6 @@
+Submission 7
+
+Used SMOTE for oversampling train data.
+
+Train result: 0.7308634
+Result: 0.82899
