@@ -1,0 +1,6 @@
+Submission 12
+
+Filtered noise using Iterative Partitioning Filter.
+
+Train result: 0.9199263
+Result: 0.90045
