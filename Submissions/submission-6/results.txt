@@ -1,0 +1,6 @@
+Submission 6
+
+Applied Principal Component Analysis.
+
+Train result: 0.7867976
+Result: 0.90658
