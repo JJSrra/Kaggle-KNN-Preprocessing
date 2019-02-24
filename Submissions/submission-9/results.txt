@@ -1,0 +1,6 @@
+Submission 9
+
+Imputed Missing Values with Amelia instead of Mice. Removed rows filled with NA/outliers.
+
+Train result: 0.7887624
+Result: 0.90505
