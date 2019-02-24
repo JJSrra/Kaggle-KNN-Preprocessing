@@ -1,0 +1,6 @@
+Submission 10
+
+Filtered noise using Ensemble Filter.
+
+Train result: 0.9598256
+Result: 0.89892
