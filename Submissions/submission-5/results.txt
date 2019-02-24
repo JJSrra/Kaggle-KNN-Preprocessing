@@ -1,0 +1,6 @@
+Submission 5
+
+Feature selection based on correlation matrix.
+
+Train result: 0.7870169
+Result: 0.90607
