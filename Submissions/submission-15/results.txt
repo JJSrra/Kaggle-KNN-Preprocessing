@@ -1,6 +1,6 @@
-Submission 14
+Submission 15
 
-Removed only features with correlation higher than 0.95 (highly similar). selection.
+Feature selection using CFS filter and kknn function.
 
-Train result: 0.7911831
-Result: 0.90096
+Train result: ?
+Result: 0.83818
