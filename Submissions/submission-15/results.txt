@@ -1,0 +1,6 @@
+Submission 14
+
+Removed only features with correlation higher than 0.95 (highly similar). selection.
+
+Train result: 0.7911831
+Result: 0.90096
