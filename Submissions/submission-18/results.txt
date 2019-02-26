@@ -1,0 +1,6 @@
+Submission 17
+
+Used Tomek Links for undersampling twice for higher reduction.
+
+Train result: 0.7914622
+Result: 0.88310
