@@ -1,0 +1,6 @@
+Submission 19
+
+Filtered out highly correlated predictors with "corr" preProcess method.
+
+Train result: 0.7888708
+Result: 0.90811
