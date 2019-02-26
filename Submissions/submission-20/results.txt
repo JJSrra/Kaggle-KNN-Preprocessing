@@ -1,0 +1,6 @@
+Submission 20
+
+Removed again upper extreme outliers with "corr" preprocessing method.
+
+Train result: 0.7901881
+Result: 0.90505
