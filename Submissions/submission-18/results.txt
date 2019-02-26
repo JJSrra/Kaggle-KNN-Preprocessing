@@ -1,6 +1,6 @@
-Submission 17
+Submission 18
 
-Used Tomek Links for undersampling twice for higher reduction.
+Removed each instance with *at least* one attribute value lesser than -60000 (trash).
 
-Train result: 0.7914622
-Result: 0.88310
+Train result: 0.7871162
+Result: 0.89994
